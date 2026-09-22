@@ -1,29 +1,35 @@
 const catalogoProdutos = [
   [
+    "assets/fone.png",
     "Fone de ouvido over-ear",
     "Fone de Ouvido Bluetooth Over-Ear",
     "Fone de ouvido",
     349.9,
   ],
   [
+    "assets/cafeteira.png",
     "Cafeteira Elétrica", 
     "Cafeteira Elétrica Programável", 
     "Cafeteira", 
     189.0
  ],
   [
+    "assets/tenis.png",
     "Tênis Esportivo", 
     "Tênis Esportivo Running Pro", 
     "Tênis", 
     259.99
   ],
   [
+    "assets/livro.jpg",
     "O Poder do Hábito",
     'Livro: "O Poder do Hábito" (Capa Comum)',
     "Livro",
     49.9,
   ],
-  ["Mochila Executiva", 
+  [
+    "assets/mochila.png",
+    "Mochila Executiva", 
     "Mochila Executiva Antifurto", 
     "Mochila", 
     129.9
